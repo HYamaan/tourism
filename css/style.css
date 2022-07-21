@@ -114,7 +114,7 @@ body {
 
 .btn:active {
   transform: translateY(-1px);
-  box-shadow: 0 0.5rem 0.7rem rgba(0, 0, 0, 0.2); }
+  box-shadow: 0 0.5rem 0.7rem rgba(0, 0, 0, 0.3); }
 
 .btn--white {
   background-color: #fff;
